@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699167298937",
+    "project_id": "eventomoviles",
+    "storage_bucket": "eventomoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699167298937:android:90a39a891dc0294b144ba8",
+        "android_client_info": {
+          "package_name": "com.Trabajo.Final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqE6WdUjjA5dDmeiJIyLEBeIwdgZtooM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
